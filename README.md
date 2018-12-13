@@ -1,6 +1,6 @@
 # MIT Manufacturers
 
-Parse registry manufacturers file of customers to sql.
+Parse registry manufacturers and fill dictionary.
 
 ## Author
 
